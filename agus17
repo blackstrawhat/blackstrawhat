@@ -1,48 +1,43 @@
 #EXTM3U
 //LIVE
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/o03RCy_iuFzeG1Vxl20ugeE5X9WpDvGayrBrHm2Jabbzl2CaaAFoBy8jzEKQFApBNGBKpDnFicGsPczFN8Qgew/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/dynamic_hlsproducer.m3u8?type=live
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://stmv5.samcast.com.br/caroline3961/caroline3961/playlist.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://ajrm5gczh26too.data.mediastore.us-east-1.amazonaws.com:443/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+http://185.53.89.183/hls/suspr.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+http://flusonic-1.platinum-tv.com:80/USA_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+http://12.yaciaptk.xyz/live/6161655/index.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+http://14.yaciaptk.xyz/live/616194987/index.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+http://1.yaciaptk.xyz/live/6161655/index.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://dwm7b47ymr4go.cloudfront.net/out/v1/b594d34ec85b423688bd91ecef44ea13/index.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://google-me.cdn.booyah.live/hls/113137/85569341.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://d2u41sz0ro4arp.cloudfront.net/out/v1/43bef82b171343e9a2bb73afed960b46/index_2.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA MU
+https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_1.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA 1
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA 2
+https://google-me.cdn.booyah.live/hls/113137/85569341.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA 3
+chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://d2z2fzkvj4yz1g.cloudfront.net/out/v1/e52f813d394a49e4967f72707218f8cd/index_4.m3u8
+#EXTINF:-1 group-title="LIVE",BOLA 4
+https://c.kartlaryeniden.xyz/tr:-a-spor-hd/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",MOTOGP
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
-
-//LOKAL
-#EXTINF:-1 group-title="VISION+",RCTI
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-#EXTINF:-1 group-title="VISION+",GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:-1 group-title="VISION+",MNCTV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-#EXTINF:-1 group-title="VISION+",SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:-1 group-title="VISION+",ANTV
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 group-title="VISION+",INDOSIAR
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:-1 group-title="VISION+",TRANSTV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
-#EXTINF:-1 group-title="VISION+",TRANS7
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-#EXTINF:-1 group-title="VISION+",NET TV
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
-//LOKAL
-#EXTINF:-1 group-title="LOKAL",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="LOKAL",MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1 group-title="LOKAL",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?u=eroz_brebes.m3u8
-#EXTINF:-1 group-title="LOKAL",KOMPAS TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 group-title="LOKAL",CNN IND
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
-#EXTINF:-1 group-title="LOKAL",CNBC IND
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
-#EXTINF:-1 group-title="LOKAL",METRO TV
-http://gpc.my.id/vidio/metro-tv.m3u8
-#EXTINF:-1 group-title="LOKAL",TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 //Film
 #EXTINF:-1 group-title="ASIA",BIOSKOP INDONESIA
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
