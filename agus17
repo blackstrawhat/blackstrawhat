@@ -1,5 +1,7 @@
 #EXTM3U
 //LIVE
+#EXTINF:-1 group-title="LIVE",MOTOGP
+https://cdn1motogpcom.akamaized.net/hls/ipfmix/index.m3u8?token=st=1631431789~exp=1631456588~acl=/hls/ipfmix/*~hmac=0430e373e0b1454cb145b265b1caafefeea032888460b8bb993877d1d8bd1540&start=1631427615'
 #EXTINF:-1 group-title="LIVE",F1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="LIVE",BOLA MU
