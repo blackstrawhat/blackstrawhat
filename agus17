@@ -20,6 +20,7 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/i
 http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
 #EXTINF:-1 group-title="LIVE BOLA",SERIE A
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
 //Film
 #EXTINF:-1 group-title="ASIA",BIOSKOP INDONESIA
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
@@ -53,20 +54,31 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="Pengetahuan",HISTORY
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
-//SPORTTV
-#EXTINF:-1 group-title="SPORTTV",SPORTTV 1
+//SPORT LOKAL
+#EXTINF:0 tvg-id="Erz.UseeSport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU" group-title="Sports Lokal", Usee Sport1
+https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
+#EXTINF:0 tvg-id="Erz.UseeSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU" group-title="Sports Lokal", Usee Sport 2
+https://iptvid.cgflix.xyz/Usee/sport/usees2.m3u8
+#EXTINF:-1 group-title="Sports Lokal",ChampionTV HD
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:-1 group-title="Sports Lokal",ChampionTV 2 HD
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+#EXTINF:-1 group-title="Sports Lokal",SPORTTV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTTV",Sport TV 2
+#EXTINF:-1 group-title="Sports Lokal",Sport TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+//SPORTTV
+#EXTINF:0 tvg-id="Erz.sporttv1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a450.png" group-title="SportsTV", SPORT TV 1 
+http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a451.png" group-title="SportsTV", SPORT TV 2
+http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a452.png" group-title="SportsTV", SPORT TV 3
+http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a453.png" group-title="SportsTV", SPORT TV 4
+http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a454.png" group-title="SportsTV", SPORT TV 5
+http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTTV",Sport TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTTV",Sport TV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTTV",Sport TV 5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTTV",Real Madrid TV
-http://91.126.39.101:1935/live/realmadridnntv/chunklist_w1869008167.m3u8
 
 #EXTINF:-1 group-title="FOX SPORT",Fox Sport 1
 http://iptv.tvmalaysia.cc:80/624850/624850/6793
@@ -117,8 +129,8 @@ http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT",BTSPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 2 
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT",BTSPORT 2
+http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 group-title="SPORT",BTSPORT 2 (link2)
 
 #EXTINF:-1 group-title="SPORT",BTSPORT 3
@@ -176,6 +188,7 @@ http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
 http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 1",Arena 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="BEIN",Beinsport Premium AR
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
