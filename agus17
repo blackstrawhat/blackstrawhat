@@ -149,36 +149,17 @@ http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="thai SPORTS", TrueSport
 
 //ASTRO SPORTS
-#EXTINF:-1 group-title="ASTRO SPORT", ASTRO Arena 
-http://iptv.tvmalaysia.cc:80/624850/624850/6707
-#EXTINF:-1 group-title="ASTRO SPORT",ASTRO ARENA (link 2)
+#EXTINF:0 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.Asp1" tvg-name"Assp TV 1" group-title="ASTRO",Astro Supersport 1
+https://iptvid.cgflix.xyz/sports/assp1.m3u8
+#EXTINF:0 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.Assp2" tvg-name"Assp2" group-title="ASTRO",Astro Supersport 2
+https://iptvid.cgflix.xyz/sports/assp2.m3u8
+#EXTINF:0 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.Assp3" tvg-name"Assp3" group-title="ASTRO",Astro Supersport 3
+https://iptvid.cgflix.xyz/sports/assp3.m3u8
+#EXTINF:0 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.Assp4" tvg-name"Assp4" group-title="ASTRO",Astro Supersport 4
+https://iptvid.cgflix.xyz/sports/assp4.m3u8
+#EXTINF:0 tvg-id="Erz.AstroArena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" tvg-id="Erz.AstroArena" tvg-name"AsTro arena" group-title="ASTRO", ASTRO Arena 
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="ASTRO SPORT",ASTRO ARENA (link 3)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331191152
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 1 (Link 2)
-http://iptv.tvmalaysia.cc:80/624850/624850/6708
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 1 (Link 3)
 
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 2
-http://iptv.tvmalaysia.cc:80/624850/624850/6710
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 2 (Link 2) 
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 2 (Link 3) 
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331191154
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 3 (Link 2)
-http://iptv.tvmalaysia.cc:80/624850/624850/6711
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 3 (Link 3)
-
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 4 (Link 2)
-http://iptv.tvmalaysia.cc:80/624850/624850/6712
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SS 4 (Link 3)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331191155
 #EXTINF:-1 group-title="SPORTS 1",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="SPORTS 1",MATCH4
@@ -195,7 +176,6 @@ http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
 http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 1",Arena 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-
 
 #EXTINF:-1 group-title="BEIN",Beinsport Premium AR
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
