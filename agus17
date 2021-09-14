@@ -1,40 +1,21 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",MOTOGP
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/index.m3u8?token=st=1631431789~exp=1631456588~acl=/hls/ipfmix/*~hmac=0430e373e0b1454cb145b265b1caafefeea032888460b8bb993877d1d8bd1540&start=1631427615'
-#EXTINF:-1 group-title="LIVE",MOTOGP
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 group-title="LIVE",MOTOGP
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
-#EXTINF:-1 group-title="LIVE",SINGA
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 group-title="LIVE",SINGA
-http://12.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="LIVE",SINGA
-http://14.yaciaptk.xyz/live/616194987/index.m3u8
-#EXTINF:-1 group-title="LIVE",SINGA
-http://1.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="LIVE",SINGA
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
-#EXTINF:-1 group-title="LIVE BOLA",SERIE A
-http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
-#EXTINF:-1 group-title="LIVE BOLA",SERIE A
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE",CHAMPION
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/57eFl2AB9mqPevUrY5HelxnPLPaTOOgkuwPHGPprViMfImHSdMA53zrXvRT6i8pL0ZgWOLZWQ21PVP9W69PZEA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/dynamic_hlsproducer.m3u8?type=live
+#EXTINF:-1 group-title="LIVE",CHAMPION
+http://145.239.2.125:42021/live/066bf72a9be24287967180c4e625c23c/0ffc370ee2314d45b44deb080c871b18/124.m3u8
+#EXTINF:-1 group-title="LIVE",CHAMPION
+https://tv3.calcio01.pw/live/united.m3u8
+#EXTINF:-1 group-title="LIVE",CHAMPION
+http://185.53.89.183/hls/bt2.m3u8
+#EXTINF:-1 group-title="LIVE",CHAMPION
+https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
+#EXTINF:-1 group-title="LIVE",CHAMPION
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+#EXTINF:-1 group-title="LIVE",CHAMPION
+https://d35f43rtopwooz.cloudfront.net/out/v1/8e9d61d559f84c3f9c2546179a4cd8a0/index.m3u8
 
 //Film
-#EXTINF:-1 group-title="ASIA",BIOSKOP INDONESIA
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-#EXTINF:-1 group-title="ASIA",CITRA DRAMA
-http://gpc.my.id/vidio/citra-drama.m3u8
-#EXTINF:-1 group-title="ASIA",SONY ONE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
-#EXTINF:-1 group-title="ASIA",WAKU WAKU JAPAN
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
-#EXTINF:-1 group-title="ASIA",CELESTIAL MOVIES
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
-#EXTINF:-1 group-title="ASIA",Chinese DRAMA
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-
 #EXTINF:-1 group-title="LUAR",HBO
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="LUAR",ZEE BIOSKOP
