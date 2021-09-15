@@ -1,30 +1,12 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",CHAMPION Young Boys vs MU
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/57eFl2AB9mqPevUrY5HelxnPLPaTOOgkuwPHGPprViMfImHSdMA53zrXvRT6i8pL0ZgWOLZWQ21PVP9W69PZEA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/dynamic_hlsproducer.m3u8?type=live
-#EXTINF:-1 group-title="LIVE",CHAMPION Young Boys vs MU
+#EXTINF:-1 group-title="LIVE",CHAMPION League
 http://185.53.89.183/hls/bt2.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Young Boys vs MU
-https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Young Boys vs MU
+#EXTINF:-1 group-title="LIVE",CHAMPION League
 https://bal.varcdn1.ru/lb/m2/index.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Young Boys vs MU
-https://d35f43rtopwooz.cloudfront.net/out/v1/8e9d61d559f84c3f9c2546179a4cd8a0/index.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
-https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/CGlAe0-TQgz0amH9xwvbhj0oGovW4PCwCjQjfC-fviGQSDujv-7XeDHaL2aCRdsuJtaUPL7bdyjoZfI53J-KHg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/dynamic_hlsproducer.m3u8?type=live
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
-http://209.126.119.148:25461/live/4fd649c301554f0ea570ce3934dd6986/1bec5e2b244344c9943b22bb6fe9407d/46.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
-http://145.239.2.125:42021/live/7163d946c7fa45a8ac8d39e841e7261f/d3c099abd92946ff818210cae7ae8b76/1.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
-https://tv1.calcio01.pw/live/siviglia.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
+#EXTINF:-1 group-title="LIVE",CHAMPION League
 http://18.alysineoura.xyz/live/616194987/index.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="LIVE",CHAMPION Sevilla vs RB Salzburgo
+#EXTINF:-1 group-title="LIVE",CHAMPION League
 https://bal.varcdn1.ru/lb/m1/index.m3u8
 //Film
 #EXTINF:-1 group-title="LUAR",HBO
