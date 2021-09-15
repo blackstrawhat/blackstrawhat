@@ -3,167 +3,22 @@
 #EXTINF:-1 group-title="LIVE",CHAMPION League
 http://185.53.89.183/hls/bt2.m3u8
 #EXTINF:-1 group-title="LIVE",CHAMPION League
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8 
+#EXTINF:-1 group-title="LIVE",CHAMPION League
 https://bal.varcdn1.ru/lb/m2/index.m3u8
 #EXTINF:-1 group-title="LIVE",CHAMPION League
 http://18.alysineoura.xyz/live/616194987/index.m3u8
 #EXTINF:-1 group-title="LIVE",CHAMPION League
 https://bal.varcdn1.ru/lb/m1/index.m3u8
-//Film
-#EXTINF:-1 group-title="LUAR",HBO
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="LUAR",ZEE BIOSKOP
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
-#EXTINF:-1 group-title="LUAR",CINEMA WORLD
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
-#EXTINF:-1 group-title="LUAR",GALAXY
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
-#EXTINF:-1 group-title="LUAR",GALAXY Premium
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
-//Pengetahuan
-#EXTINF:-1 group-title="Pengetahuan",NAT GEO PEOPLE	
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
-#EXTINF:-1 group-title="Pengetahuan",NAT GEO WILD
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
-#EXTINF:-1 group-title="Pengetahuan",ANIMAL PLANET
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="Pengetahuan",HISTORY
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
-//SPORT LOKAL
-#EXTINF:0 tvg-id="Erz.UseeSport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU" group-title="Sports Lokal", Usee Sport1
-https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
-#EXTINF:0 tvg-id="Erz.UseeSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU" group-title="Sports Lokal", Usee Sport 2
-https://iptvid.cgflix.xyz/Usee/sport/usees2.m3u8
-#EXTINF:-1 group-title="Sports Lokal",ChampionTV HD
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-#EXTINF:-1 group-title="Sports Lokal",ChampionTV 2 HD
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-#EXTINF:-1 group-title="Sports Lokal",SPORTTV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports Lokal",Sport TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-//SPORTTV
-#EXTINF:0 tvg-id="Erz.sporttv1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a450.png" group-title="SportsTV", SPORT TV 1 
-http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="Erz.sporttv2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a451.png" group-title="SportsTV", SPORT TV 2
-http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="Erz.sporttv3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a452.png" group-title="SportsTV", SPORT TV 3
-http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="Erz.sporttv4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a453.png" group-title="SportsTV", SPORT TV 4
-http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="Erz.sporttv5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a454.png" group-title="SportsTV", SPORT TV 5
-http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 1
-http://iptv.tvmalaysia.cc:80/624850/624850/6793
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 1 (link 2)
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 1 (link 3)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188472
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 2 (link 2)
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 2 (link 3)
-
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 3 (Link 2)
-
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport 3 (Link 3)
-
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport Premium
-https://akamai2-br.cdn.booyah.live/hls/1000009/79497316.m3u8
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport News
-https://d18rxxl9527c9t.cloudfront.net:443/out/v1/56b1a9914b2f46b4801bcde24ad760a4/index_5.m3u8?tla
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport News
-http://england.mazystreams.xyz/live/8/chunks.m3u8?tla
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport News
-http://england.mazystreams.xyz/live/9/chunks.m3u8?tla
-#EXTINF:-1 group-title="US SPORTS",ESPN+
-http://134.19.182.131:8080/edg2_2.m3u8
-#EXTINF:-1 group-title="US SPORTS",ESPN US
-http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-#EXTINF:-1 group-title="US SPORTS",ESPN 2
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
-#EXTINF:-1 group-title="US SPORTS",ESPN VIVO
-http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?tla
-//SPORT 
-#EXTINF:-1 group-title="SPORT",ITV Sports
-
-#EXTINF:-1 group-title="SPORT",FSA
-http://134.19.182.131:8080/edg12_2.m3u8
-#EXTINF:-1 group-title="SPORT", SK 2HD
-http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",TVP Sport
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 2
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 2 (link2)
-
-#EXTINF:-1 group-title="SPORT",BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 3 (Link2)
-http://my.streamerstv.com:25461/Bob123/Bob123/1681
-#EXTINF:-1 group-title="SPORT",BTSPORT ESPN
-http://my.streamerstv.com:25461/Bob123/Bob123/1682
-#EXTINF:-1 group-title="SPORT",SKY MOTOGP
-http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",NBC Sport
-http://my.streamerstv.com:25461/Bob123/Bob123/263
-#EXTINF:-1 group-title="SPORT",RAISPORT+
-http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",DAZN 1
-http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",CANAL+
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-//thai SPORTS
-#EXTINF:-1 group-title="thai SPORTS", TruePremiere 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="thai SPORTS", TruePremiere 2
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="thai SPORTS", TruePremiere 3
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="thai SPORTS", TruePremiere 5
-http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="thai SPORTS", TrueSport
-
-//ASTRO SPORTS
-#EXTINF:0 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.Asp1" tvg-name"Assp TV 1" group-title="ASTRO",Astro Supersport 1
-https://iptvid.cgflix.xyz/sports/assp1.m3u8
-#EXTINF:0 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.Assp2" tvg-name"Assp2" group-title="ASTRO",Astro Supersport 2
-https://iptvid.cgflix.xyz/sports/assp2.m3u8
-#EXTINF:0 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.Assp3" tvg-name"Assp3" group-title="ASTRO",Astro Supersport 3
-https://iptvid.cgflix.xyz/sports/assp3.m3u8
-#EXTINF:0 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.Assp4" tvg-name"Assp4" group-title="ASTRO",Astro Supersport 4
-https://iptvid.cgflix.xyz/sports/assp4.m3u8
-#EXTINF:0 tvg-id="Erz.AstroArena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" tvg-id="Erz.AstroArena" tvg-name"AsTro arena" group-title="ASTRO", ASTRO Arena 
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 1",MATCHTV
+#EXTINF:-1 group-title="CHAMPION",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="SPORTS 1",MATCH4
+#EXTINF:-1 group-title="CHAMPION",MATCH4
 https://95-213-224-179.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="SPORTS 1",MATCH2
+#EXTINF:-1 group-title="CHAMPION",MATCH2
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="SPORTS 1",MATCHTV
+#EXTINF:-1 group-title="CHAMPION",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="SPORTS 1",Arena 1
-http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 1",Arena 1
-http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS 1",Arena 2
-http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS 1",Arena 5
-http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-
-
+//BEIN
 #EXTINF:-1 group-title="BEIN",Beinsport Premium AR
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="BEIN",Beinsport 1 France
@@ -194,5 +49,71 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:-1 group-title="BEIN",beIN Sports MAX 6 FR
 http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+//Film
+#EXTINF:-1 group-title="LUAR",HBO
+https://gratismkctv.net/film/hbo.m3u8
+//SPORT LOKAL
+#EXTINF:0 tvg-id="Erz.UseeSport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU" group-title="Sports Lokal", Usee Sport1
+https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
+#EXTINF:0 tvg-id="Erz.UseeSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU" group-title="Sports Lokal", Usee Sport 2
+https://iptvid.cgflix.xyz/Usee/sport/usees2.m3u8
+#EXTINF:-1 group-title="Sports Lokal",ChampionTV HD
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:-1 group-title="Sports Lokal",ChampionTV 2 HD
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+//SPORTTV
+#EXTINF:0 tvg-id="Erz.sporttv1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a450.png" group-title="SportsTV", SPORT TV 1 
+http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a451.png" group-title="SportsTV", SPORT TV 2
+http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a452.png" group-title="SportsTV", SPORT TV 3
+http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a453.png" group-title="SportsTV", SPORT TV 4
+http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Erz.sporttv5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a454.png" group-title="SportsTV", SPORT TV 5
+http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="FOX SPORT",Fox Sport 1
+http://iptv.tvmalaysia.cc:80/624850/624850/6793
+#EXTINF:-1 group-title="FOX SPORT",Fox Sport 1 (link 2)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188472
+#EXTINF:-1 group-title="FOX SPORT",Fox Sport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US SPORTS",ESPN US
+http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+#EXTINF:-1 group-title="US SPORTS",ESPN 2
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
+#EXTINF:-1 group-title="SPORT", SK 2HD
+http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT",TVP Sport
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT",BTSPORT 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT",BTSPORT 2
+http://185.53.89.183/hls/bt2.m3u8
+#EXTINF:-1 group-title="SPORT",BTSPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT",SKY MOTOGP
+http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",RAISPORT+
+http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",DAZN 1
+http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",CANAL+
+http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
+//ASTRO SPORTS
+#EXTINF:-1 group-title="ASTRO",ARENA
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS 1",Arena 1
+http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 1",Arena 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS 1",Arena 2
+http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS 1",Arena 5
+http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
+
+
 
 
