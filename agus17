@@ -18,7 +18,6 @@ https://95-213-224-179.livesports24.online/ooomatch.m3u8
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="CHAMPION",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-
 //BEIN
 #EXTINF:-1 group-title="BEIN",Beinsport Premium AR
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -73,7 +72,6 @@ http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="Erz.sporttv5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a454.png" group-title="SportsTV", SPORT TV 5
 http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="FOX SPORT",Fox Sport 1
 http://iptv.tvmalaysia.cc:80/624850/624850/6793
 #EXTINF:-1 group-title="FOX SPORT",Fox Sport 1 (link 2)
@@ -105,7 +103,7 @@ http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO",ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
+//SPORT 1
 #EXTINF:-1 group-title="SPORTS 1",Arena 1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 1",Arena 1
