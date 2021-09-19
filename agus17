@@ -2,6 +2,20 @@
 //LIVE
 #EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
 https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1632033618~exp=1632061425~acl=/hls/ipfmix/*~hmac=d1a789e7c0aef62b870a81d5e6695a095c0935dce5c0664fca50c1f07c078482&start=1632031493&
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+http://89.187.185.100:80/BT_SPORTS_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+http://185.53.89.183/hls/m0t0.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+https://13.251.228.53:443/live-player/11/live.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+http://tv.cablelatino.xyz/hls/GATO/ESPN2_LAT.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+http://91.126.141.13:1935/live/61/1800-def.m3u8
 #EXTINF:-1 group-title="CHAMPION",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="CHAMPION",MATCH4
