@@ -1,15 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",LIV vs CRY
-https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631973652847&abd=1
-#EXTINF:-1 group-title="LIVE",LIV vs CRY
-http://105m3u8.epg-kc.com/v3/youshi/m3_ScQBL06LuJftF_480p.m3u8?session_id=elOYV8xxG0wi&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.154.225&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=ec9d93d1&expired=1631987335&token=C0A691AFCCFDA29DD1947FB5E96FAC86&media_code=m3_ScQBL06LuJftF_480p
-#EXTINF:-1 group-title="LIVE",CITY vs SHT
-http://212.224.98.204:2200/NL/dazn1hd-esp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE",CITY vs SHT
-http://105m3u8.epg-kc.com/v3/youshi/m3_FZukotDQWYstv2_480p.m3u8?session_id=elOYV8xxG0wi&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.154.225&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=ec9d93d1&expired=1631987335&token=C0A691AFCCFDA29DD1947FB5E96FAC86&media_code=m3_FZukotDQWYstv2_480p
-#EXTINF:-1 group-title="LIVE",BURN vs ARS
-http://105m3u8.epg-kc.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?session_id=elOYV8xxG0wi&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.154.225&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=ec9d93d1&expired=1631987335&token=C0A691AFCCFDA29DD1947FB5E96FAC86&media_code=m1_ZLeLkHOSgiYq548T_480p
+#EXTINF:-1 group-title="LIVE",MOTOGP SAN MARINO
+https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1632033618~exp=1632061425~acl=/hls/ipfmix/*~hmac=d1a789e7c0aef62b870a81d5e6695a095c0935dce5c0664fca50c1f07c078482&start=1632031493&
 #EXTINF:-1 group-title="CHAMPION",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="CHAMPION",MATCH4
