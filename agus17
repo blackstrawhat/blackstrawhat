@@ -1,17 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="EPL", CHE vs MCI
-https://178.17.167.58/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="EPL", CHE vs MCI
-http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
-#EXTINF:-1 group-title="EPL", CHE vs MCI
-http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
-#EXTINF:-1 group-title="EPL", CHE vs MCI
-http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
-#EXTINF:-1 group-title="EPL", CHE vs MCI
-https://google-me.cdn.booyah.live/hls/113130/85565524.m3u8
-#EXTINF:-1 group-title="EPL", CHE vs MCI
-https://tv3.calcio01.pw/live/city.m3u8
+#EXTINF:-1 group-title="EPL", ARS vs TOT
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 #EXTINF:-1 group-title="CHAMPION",MATCHTV
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="CHAMPION",MATCH4
