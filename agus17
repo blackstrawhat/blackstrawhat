@@ -37,12 +37,12 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 #EXTINF:-1 group-title="BEIN",beIN Sports MAX 6 FR
 http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
-//SPORTS
-EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPOTV2" group-title="SPORTS",SPOTV2
+//SPORT
+#EXTINF:-1 group-title="SPORT",SPO2 Korea
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 group-title="FOX SPORT",Fox Sport News
+#EXTINF:-1 group-title="SPORT",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="US SPORTS",ESPN US
+#EXTINF:-1 group-title="SPORT",ESPN US
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORT", SK 2HD
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
@@ -77,7 +77,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1633081993~acl=%2fhls-p%2fingest_2
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO",ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
+//SPORTS
 #EXTINF:-1 group-title="SPORTS 1",Arena 1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 1",Arena 1
