@@ -7,7 +7,6 @@ https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1633273849~exp=16
 #EXTINF:-1 group-title="LIVE",MOTOGP US TRANS7
 https://video.detik.com/gstream/smil:gstream.smil/playlist.m3u8
 
-
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
