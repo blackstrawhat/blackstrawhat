@@ -4,6 +4,10 @@
 https://google-me.cdn.booyah.live/hls/113132/85565524.m3u8
 #EXTINF:-1 group-title="LIVE",MOTOGP US
 https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1633273849~exp=1633295894~acl=/hls/ipfmix/*~hmac=2c6957e7bbc8370df28e0c038b6fdb6f2013e16802a2827d6f8e826f3895f853&start=1633264691&
+#EXTINF:-1 group-title="LIVE",MOTOGP US TRANS7
+https://video.detik.com/gstream/smil:gstream.smil/playlist.m3u8
+
+
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
@@ -12,7 +16,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/gstream/smil:gstream.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7 link2
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANSTV
