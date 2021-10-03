@@ -1,8 +1,8 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="EPL",LIV vs MCI
+#EXTINF:-1 group-title="LIVE",LIV vs MCI
 https://google-me.cdn.booyah.live/hls/113132/85565524.m3u8
-#EXTINF:-1 group-title="MOTOGP",US
+#EXTINF:-1 group-title="LIVE",MOTOGP US
 https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1633273849~exp=1633295894~acl=/hls/ipfmix/*~hmac=2c6957e7bbc8370df28e0c038b6fdb6f2013e16802a2827d6f8e826f3895f853&start=1633264691&
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",TV ONE
