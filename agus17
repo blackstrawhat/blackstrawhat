@@ -1,34 +1,82 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",LIV vs MCI
-https://google-me.cdn.booyah.live/hls/113132/85565524.m3u8
-#EXTINF:-1 group-title="LIVE",MOTOGP US
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=st=1633273849~exp=1633295894~acl=/hls/ipfmix/*~hmac=2c6957e7bbc8370df28e0c038b6fdb6f2013e16802a2827d6f8e826f3895f853&start=1633264691&
-#EXTINF:-1 group-title="LIVE",MOTOGP US TRANS7
-https://video.detik.com/gstream/smil:gstream.smil/playlist.m3u8
 //TV NASIONAL
-#EXTINF:-1 group-title="TV NASIONAL",TV ONE
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",RCTI
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",RCTI 2
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
-https://video.detik.com/gstream/smil:gstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",TRANS7 link2
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 2
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANSTV
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TRANSTV 2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",SCTV 2
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",NET
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+//BERITA
+#EXTINF:-1 group-title="BERITA",TV ONE
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1 group-title="BERITA",TV ONE 2
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="BERITA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="BERITA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="BERITA",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="BERITA",KompasTV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="BERITA",METROTV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+//MOVIES
+#EXTINF:-1 group-title="Movies",TVN Movies
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="Movies",Celestial Movies
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="Movies",Thrill
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="Movies",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+//TV Hiburan
+#EXTINF:-1 group-title="HIBURAN",TVN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",One
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",GEM
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",Animax
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",Aniplus
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="HIBURAN",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+//Knowledge
+#EXTINF:-1 group-title="Pengetahuan",CGTN Documentary
+http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="Pengetahuan",NHK WORLD
+http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+//Champion
 #EXTINF:-1 group-title="CHAMPION",MATCH2
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="CHAMPION",CHAMPION League
