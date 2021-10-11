@@ -1,9 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",Indonesia vs Taipei
-https://etslive-2-vidio-com.akamaized.net/exp=1633967183~acl=/hls-p/ingest_6685_*/*~hmac=50996c4defd4f3c323f6ea911162c344a090d89579eeaf642c9a8c6545d765f8/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1 group-title="LIVE",KOREA vs SYRIA
-https://live-ak.vimeocdn.com:443/exp=1633610869~acl=%2Fb8ccf5d1-a4cf-4f70-a695-4dac8e32d2dd%2F%2A~hmac=4fd49cd019dbe58acf061291199ee52efe3cc017844fdeaf9ff3fb053459e604/b8ccf5d1-a4cf-4f70-a695-4dac8e32d2dd/chunklist_b3256000.m3u8?max_segments=10
+#EXTINF:-1 group-title="LIVE",Taipei vs Indonesia
+https://etslive-2-vidio-com.akamaized.net/exp=1633970397~acl=/hls-p/ingest_6685_*/*~hmac=36a552c6d82b076f55f0c6b33617b6a2ad8bfcc8df431edb4906244309bbc5db/hls-p/ingest_6685_720p/index.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
