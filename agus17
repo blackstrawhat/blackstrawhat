@@ -4,6 +4,8 @@
 https://google-me.cdn.booyah.live/hls/113137/83188269.m3u8
 #EXTINF:-1 group-title="LIVE",city vs Burnley
 https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
+#EXTINF:-1 group-title="LIVE",BFC vs PERSIB
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/241.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
