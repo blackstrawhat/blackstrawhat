@@ -1,16 +1,18 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",Taipei vs Indonesia
-https://etslive-2-vidio-com.akamaized.net/exp=1633970397~acl=/hls-p/ingest_6685_*/*~hmac=36a552c6d82b076f55f0c6b33617b6a2ad8bfcc8df431edb4906244309bbc5db/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 group-title="LIVE",Lei vs MU
+https://google-me.cdn.booyah.live/hls/113137/83188269.m3u8
+#EXTINF:-1 group-title="LIVE",city vs Burnley
+https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",RCTI 2
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",TRANS7 2
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 2
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANSTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANSTV 2
@@ -46,6 +48,10 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-m
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="BERITA",METROTV
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+#EXTINF:-1 group-title="BERITA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="BERITA",BERITA SATU 2
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 //MOVIES
 #EXTINF:-1 group-title="Movies",TVN Movies
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
