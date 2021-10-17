@@ -1,10 +1,6 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",Lei vs MU
-https://google-me.cdn.booyah.live/hls/113137/83188269.m3u8
-#EXTINF:-1 group-title="LIVE",city vs Burnley
-https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
-#EXTINF:-1 group-title="LIVE",BFC vs PERSIB
+#EXTINF:-1 group-title="LIVE",BADMINTON (LAINNYA DIBAGIAN SPORT LOKAL)
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/241.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
@@ -172,16 +168,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 //SPORT LOKAL
-#EXTINF:-1 group-title="SPORT LOKAL",USEE PRIME
-https://cdn13jtedge.useetv.com/joss/133/useeprime/chunklist_w614611870_b894100_sleng.m3u8?enc=fpSUjItY2pZL0H3OerSZ1w&uid=&exp=1633078233
-#EXTINF:-1 group-title="SPORT LOKAL",CHAMPION TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1633153064~acl=%2fhls-p%2fingest_6685_%2a%2f%2a~hmac=2f71a1c6f3d4ea1cdb3f42187b5e96368ca843319f8b7ee81efd76e8aa67f579/hls-p/ingest_6685_480p/index.m3u8
-#EXTINF:-1 group-title="SPORT LOKAL",CHAMPION TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1633153064~acl=%2fhls-p%2fingest_6686_%2a%2f%2a~hmac=a10bb9117409ae60520d88030e74c6abc61e05f70443446772494eb2a9067bae/hls-p/ingest_6686_480p/index.m3u8
-#EXTINF:-1 group-title="SPORT LOKAL",CHAMPION TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1633153065~acl=%2fhls-p%2fingest_6786_%2a%2f%2a~hmac=74d1319905ff8f1423a4f1feb0f49482d2d5d9e19ae6b065af80e335a0bf2d3f/hls-p/ingest_6786_480p/index.m3u8
-#EXTINF:-1 group-title="SPORT LOKAL",O CHANNEL
-https://etslive-2-vidio-com.akamaized.net/exp=1633081993~acl=%2fhls-p%2fingest_206_%2a%2f%2a~hmac=890ae7b2b9643218832bcaf6bda6fe0d967a7e2b899f9ad2b84c1871f6763532/hls-p/ingest_206_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORT LOKAL",Champions 1
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORT LOKAL",Champions 2
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORT LOKAL",Usee Sport 1
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORT LOKAL",Usee Sport 2
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/242.m3u8
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO",EGG
 http://45.126.83.51/uq2663/h/h22/01.m3u8
