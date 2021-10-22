@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",BADMINTON (LAINNYA DIBAGIAN SPORT LOKAL)
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/241.m3u8
+#EXTINF:-1 group-title="LIVE",PSB Vs PSS
+https://josstv.000webhostapp.com/jossgandos/m3u/persib.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
@@ -59,6 +59,8 @@ http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="Movies",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="Movies",HBO Latin
+http://38.131.11.9:1080/play/a01u
 
 //TV Hiburan
 #EXTINF:-1 group-title="HIBURAN",TVN
@@ -90,8 +92,8 @@ https://bal.varcdn1.ru/lb/m2/index.m3u8
 #EXTINF:-1 group-title="CHAMPION",CHAMPION League
 https://bal.varcdn1.ru/lb/m1/index.m3u8
 //BEIN
-#EXTINF:-1 group-title="BEIN",Beinsport Asia 1
-https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+#EXTINF:-1 group-title="BEIN",Beinsport Xtra
+hhttp://88.barouhn.xyz.global.prod.fastly.net/live/9962564400/index.m3u8
 #EXTINF:-1 group-title="BEIN",Beinsport Premium AR
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="BEIN",Beinsport 1 France
@@ -131,13 +133,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1 group-title="SPORT",FOX Sport
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+#EXTINF:-1 group-title="SPORT",FOX Sport 1 Latin
+http://38.131.11.9:1080/play/a02k
+#EXTINF:-1 group-title="SPORT",FOX Sport 2 Latin
+http://38.131.11.9:1080/play/a033
+#EXTINF:-1 group-title="SPORT",FOX Sport 3 Latin
+http://38.131.11.9:1080/play/a034
+#EXTINF:-1 group-title="SPORT",FOX Sport Premium
+http://38.131.11.9:1080/play/a00c
 #EXTINF:-1 group-title="SPORT",FOX Sport US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="SPORT",ESPN US
-http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+http://38.131.11.9:1080/play/a0as
 #EXTINF:-1 group-title="SPORT", SK 2HD
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORT",TVP Sport
@@ -167,15 +177,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b
 #EXTINF:-1 group-title="SPORT",POKER WORLD TOUR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-//SPORT LOKAL
-#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORT LOKAL",Champions 1
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORT LOKAL",Champions 2
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORT LOKAL",Usee Sport 1
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORT LOKAL",Usee Sport 2
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/242.m3u8
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO",EGG
 http://45.126.83.51/uq2663/h/h22/01.m3u8
@@ -196,6 +197,7 @@ http://93.157.62.180/Supersport1/index.m3u8
 http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS epl",Super Sport 3
 http://93.157.62.180/Supersport3/index.m3u8
+
 
 
 
