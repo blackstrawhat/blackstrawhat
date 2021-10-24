@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",PSB Vs PSS
-https://josstv.000webhostapp.com/jossgandos/m3u/persib.m3u8
+#EXTINF:-1 group-title="LIVE",MOTOGP
+https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
