@@ -1,9 +1,7 @@
 #EXTM3U
 //LIVE
 #EXTINF:-1 group-title="LIVE",INDO VS AUSTRALIA U23
-http://revealedsolid.com/ay5ez2rmx?bvdd=43&refer=https%3A%2F%2Fezsportglobal.blogspot.com%2Fp%2Findonesia-vs-australia.html&kw=%5B%22indonesia%22%2C%22vs%22%2C%22australia%22%2C%22-%22%2C%22ezsport%22%2C%22global%22%5D&key=8a2ed63504d88aad7ba321737e8f58e6&scrWidth=1366&scrHeight=768&tz=7&v=21.9.v.11&ship=&res=12.31&dev=r&uuid=f496e2d5-e333-4eef-a11c-6cedc84ace32%3A3%3A1&adb=n
-#EXTINF:-1 group-title="LIVE",MU VS LIV ESPN
-https://akamai2-br.cdn.booyah.live/hls/1500035/93320904.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635262337~acl=/hls-p/ingest_6685_*/*~hmac=97b3f2ab97f5640ed824400eaed880a82906618c6848e64425797dee7f954325/hls-p/ingest_6685_720p/index.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
