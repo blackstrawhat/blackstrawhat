@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",INDO VS AUSTRALIA U23
-https://etslive-2-vidio-com.akamaized.net/exp=1635262337~acl=/hls-p/ingest_6685_*/*~hmac=97b3f2ab97f5640ed824400eaed880a82906618c6848e64425797dee7f954325/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 group-title="LIVE",BBU VS RIU
+https://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 //TV NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
