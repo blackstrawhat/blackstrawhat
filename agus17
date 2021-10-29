@@ -1,5 +1,7 @@
 #EXTM3U
 //LIVE
+#EXTINF:-1 group-title="LIVE",TIMNAS U23
+https://etslive-2-vidio-com.akamaized.net/exp=1635521812~acl=/hls-p/ingest_6685_*/*~hmac=89751c9134473c7ef543eb97b31039a24642f897277e038cc4650def553a1ac1/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 group-title="LIVE",LIGA BRI
 http://202.150.172.34:4000/play/indosiarhdt2
 //TV NASIONAL
