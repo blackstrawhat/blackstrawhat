@@ -1,7 +1,39 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",TIMNAS U23
-https://etslive-2-vidio-com.akamaized.net/exp=1635521812~acl=/hls-p/ingest_6685_*/*~hmac=89751c9134473c7ef543eb97b31039a24642f897277e038cc4650def553a1ac1/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://google-me.cdn.booyah.live/hls/113134/85352637.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://d35rbf7uo7tl84.cloudfront.net:443/out/v1/884817b269724319aea457644af1ba84/index_2.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://c14.aminouras.xyz/live/616165500/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://cdn.livepeer.com:443/hls/5faad2acrpbbrlw3/1_0/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://google-br.cdn.booyah.live/hls/1500091/95598754.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://tv4.calcio02.pw/live/united.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://c16.aminouras.xyz/live/616165500/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/137000/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/117/index.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://google-me.cdn.booyah.live/hls/113134/85352637.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://d35rbf7uo7tl84.cloudfront.net/out/v1/884817b269724319aea457644af1ba84/index_3.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://google-me.cdn.booyah.live/hls/113130/93317448.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+https://d3nrc8vmsli5o5.cloudfront.net/out/v1/3c31f175b51148e19506f0be1ba59c6b/index_4.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://sp520.azureedge.net/hls/nbc/playlist.m3u8
+#EXTINF:-1 group-title="LIVE",MU VS CITY
+http://185.53.89.183/hls/main.m3u8
 #EXTINF:-1 group-title="LIVE",LIGA BRI
 http://202.150.172.34:4000/play/indosiarhdt2
 //TV NASIONAL
