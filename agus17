@@ -2,6 +2,8 @@
 //LIVE
 #EXTINF:-1 group-title="LIVE",CHE vs MU
 https://bffbea00bf80.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.129490291193.channel.uuPcqe2DKPKw.m3u8
+#EXTINF:-1 group-title="LIVE",CHE vs MU LINK 2
+https://portaltv.xyz/live3/player.html#https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly93Mi5ub29iNGNhc3QuY29tOjgwODA=_/hls/ufeed80.m3u8
 #EXTINF:-1 group-title="LIVE",LIGA BRI
 http://202.150.172.34:4000/play/indosiarhdt2
 //TV NASIONAL
