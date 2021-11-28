@@ -1,15 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",CHE vs BUR
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="LIVE",CHE vs BUR
-https://dfdqxh9lqta5h.cloudfront.net:443/out/v1/80db4e7fbffa4eb8ac1e33c568a683bc/index_2.m3u8
-#EXTINF:-1 group-title="LIVE",CHE vs BUR
-https://s1.cdnfbs.xyz/hls/6690f091f4d8b3de28e157a5dc26c059/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE",CHE vs BUR
-https://s1.cdnfbs.xyz/hls/6690f091f4d8b3de28e157a5dc26c059/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE",CHE vs BUR
-https://dfdqxh9lqta5h.cloudfront.net/out/v1/80db4e7fbffa4eb8ac1e33c568a683bc/index.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1636210716382&abd=1
+#EXTINF:-1 group-title="LIVE",CHE vs MU
+https://bffbea00bf80.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.129490291193.channel.uuPcqe2DKPKw.m3u8
 #EXTINF:-1 group-title="LIVE",LIGA BRI
 http://202.150.172.34:4000/play/indosiarhdt2
 //TV NASIONAL
