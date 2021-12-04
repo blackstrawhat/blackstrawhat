@@ -2,7 +2,8 @@
 //LIVE
 #EXTINF:-1 group-title="LIVE",WESTHAM VS CHELSEA
 https://lnk.ec/JuaraTV1?shareext.m3u8
-
+#EXTINF:-1 group-title="LIVE",WESTHAM VS CHELSEA LINK 2
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/2A32Lw4S7zumHqF-ca2HomEvI_qKEEgBXAnwachWixvPwEQTcnK8cGJ6zmfhtqU_cgE_ojcbAAJ2WqPDfvOYGA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="LIVE",LIGA BRI
 http://202.150.172.34:4000/play/indosiarhdt2
 //TV NASIONAL
