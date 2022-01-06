@@ -14,8 +14,8 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7fF
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",SCTV pak JUNAR
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV 2
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W4hGmDcxx-FmVmg5cYFG0nJ/ts
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
