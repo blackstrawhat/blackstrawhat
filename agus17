@@ -2,6 +2,8 @@
 //LIVE
 #EXTINF:-1 group-title="LIVE",CHE VS CITY
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/Cv0ROPC9jxK6tFfTeUPTVZMjkR8miy-vKF-saoLmRI8esE-8Xd0qOcMYVJetycSmj172ZMZQ-xToBsDTVE-1Mg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
+#EXTINF:-1 group-title="LIVE",CHE VS CITY Live 2
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/J2GRkYkCw55E4-g8JZZpBrpMv_fkUKtr6WBl9gsJxcfsTvOxCY-QfTWrL2oGo70fBNV7SABwjcVvPfKUt-0sFQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8
 //TV NASIONAL Update January 2022
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
