@@ -1,36 +1,36 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",CHE VS CITY
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/Cv0ROPC9jxK6tFfTeUPTVZMjkR8miy-vKF-saoLmRI8esE-8Xd0qOcMYVJetycSmj172ZMZQ-xToBsDTVE-1Mg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
-#EXTINF:-1 group-title="LIVE",CHE VS CITY Live 2
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/J2GRkYkCw55E4-g8JZZpBrpMv_fkUKtr6WBl9gsJxcfsTvOxCY-QfTWrL2oGo70fBNV7SABwjcVvPfKUt-0sFQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8
-//TV NASIONAL Update January 2022
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 15 JAN22
+https://mnctv-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+//TV NASIONAL Update 15 January 2022
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
-https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",RCTI K-VISION
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7aDALmyeIMqxPgmykrtlzt/ts
+https://mnctv-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",TRANSTV 
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7fFByp0uo-EAkT3jdyHQDN/ts
-#EXTINF:-1 group-title="TV NASIONAL",TRANSTV 2
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 USEETV
+https://cdn09jtedge.useetv.com/joss/133/trans71080new/chunklist_w1033926442_b444100_sleng.m3u8?enc=ARRCRiBrXqgueJfCKHgxiw&uid=NDI2N2I0MjY0MzY2YzNhZGE4MDgwYjM3YzY2MmVkMGU=&exp=1642264210
+#EXTINF:-1 group-title="TV NASIONAL",TRANSTV USEETV
+https://cdn09jtedge.useetv.com/joss/133/transtv1080new/chunklist_w1151386924_b444100_sleng.m3u8?enc=doExc_oG97yllOqWWDe09g&uid=NDI2N2I0MjY0MzY2YzNhZGE4MDgwYjM3YzY2MmVkMGU=&exp=1642264210
+#EXTINF:-1 group-title="TV NASIONAL",TRANSTV DETIK
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV pak JUNAR
+http://rr2.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",ANTV 2
+http://45.126.83.51/session/945144f6-7616-11ec-8c26-a32592f5f0d6/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV 2
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W4hGmDcxx-FmVmg5cYFG0nJ/ts
-#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W4mJ2zPvF_NCWwZ8QRTGTbc/ts
+#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR VIDIO
+https://etslive-2-vidio-com.akamaized.net/exp=1642269380~acl=/hls-p/ingest_205_*/*~hmac=9d39fb5f693ae34084473ec3d27e09ba5110a5087546f9a145e680adb71b8d4a/hls-p/ingest_205_360p/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",GTV
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7FesgHl8QIWZLpPEcK4ALi/ts
+https://mnctv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_100000=1.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",MNCTV
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W5kDZGuB4VOFhAukNf7E8PC/ts
+https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_100000=1.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",NET
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W7DlJb4MXhvXZ_F0WkMY8Pi/ts
+#EXTINF:-1 group-title="TV NASIONAL",NET VIDIO
+https://etslive-2-vidio-com.akamaized.net/exp=1642262302~acl=/hls-p/ingest_875_*/*~hmac=243587aad60c2fdae790291900d8f567e256df5526611084c8fab339040aa4d0/hls-p/ingest_875_360p/index.m3u8
 //BERITA
 #EXTINF:-1 group-title="BERITA",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
@@ -40,12 +40,10 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 group-title="BERITA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="BERITA",CNBC INDONESIA 2
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNB4TFEZGvWpP-FAgnC8W4KIQFVsPGfqzymphTC84md/ts
 #EXTINF:-1 group-title="BERITA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="BERITA",iNews
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNniBY4rX3I7FjLbs-lVFe1N026Ri1d0pnnMlctyw5X8/ts
+#EXTINF:-1 group-title="BERITA",iNews USee
+https://cdn09jtedge.useetv.com/joss/134/inews/chunklist_w1219060382_b684100_sleng.m3u8?enc=Zd8eWwPwwn4xDQqV9tBJaQ&uid=NDI2N2I0MjY0MzY2YzNhZGE4MDgwYjM3YzY2MmVkMGU=&exp=1642264221
 #EXTINF:-1 group-title="BERITA",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="BERITA",METROTV
@@ -95,6 +93,7 @@ https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",CHAMPION TV 2
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",CHAMPION TV 3
+
 #EXTINF:-1 group-title="SPORTS LOKAL",MNC SPORTS
 #EXTINF:-1 group-title="SPORTS LOKAL",USEESPORT 1
 
@@ -111,28 +110,13 @@ https://bal.varcdn1.ru/lb/m2/index.m3u8
 https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 //BEIN
-#EXTINF:-1 group-title="BEIN",Beinsport1 INDO 
-https://dik.si/SEbein1?shareext.m3u8
-#EXTINF:-1 group-title="BEIN",Beinsport2 INDO 
-https://dik.si/SEbein2?SHAREEXT.m3u8
-#EXTINF:-1 group-title="BEIN",Beinsport1 INDO Link 2
-https://etus.link/bein1?shareext.m3u8
-#EXTINF:-1 group-title="BEIN",Beinsport2 INDO Link 2
-https://etus.link/bein2?shareext.m3u8
-#EXTINF:-1 group-title="BEIN",Beinsport 1 FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/37164
-#EXTINF:-1 group-title="BEIN",Beinsport 2 FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/1737
-#EXTINF:-1 group-title="BEIN",Beinsport 1 MAX
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/8224
-#EXTINF:-1 group-title="BEIN",Beinsport 1 MAX
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/16878
+
 
 //SPORT
 #EXTINF:-1 group-title="SPORT",FOX Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master480x270_v3.m3u8
-#EXTINF:-1 group-title="SPORT",TVP Sport
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="SPORT",BTSPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 group-title="SPORT",REDBULL SPORT
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 group-title="SPORT",TOP FIGHT
@@ -142,9 +126,9 @@ https://dik.si/SEskynetsport4?shareext.m3u8
 #EXTINF:-1 group-title="ASTRO",EGG
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="ASTRO",ARENA
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS 1",Arena 1
-http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+
 
 
 
