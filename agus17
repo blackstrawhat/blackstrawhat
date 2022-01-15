@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
 #EXTINF:-1 group-title="TV NASIONAL",UPDATE 15 JAN22
-https://mnctv-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 //TV NASIONAL Update 15 January 2022
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 https://mnctv-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
