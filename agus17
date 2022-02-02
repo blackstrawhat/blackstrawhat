@@ -2,13 +2,21 @@
 //LIVE
 
 //TV NASIONAL Update FEBRUARI 2022
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE FEB 2022
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 3 FEB 2022
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI
 https://mnctv-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI 2
+https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI 3
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 tvg-id="Trans TV HD" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" group-title="TV NASIONAL",TRANSTV DETIK
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 2
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans TV HD" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" group-title="TV NASIONAL",TRANSTV HD
+https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans TV HD" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" group-title="TV NASIONAL",TRANSTV 2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
@@ -16,45 +24,50 @@ http://rr2.dens.tv/s/s07/index.m3u8
 http://45.126.83.51/session/945144f6-7616-11ec-8c26-a32592f5f0d6/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV
+#EXTINF:-1 group-title="TV NASIONAL",SCTV 2
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV
+#EXTINF:-1 group-title="TV NASIONAL",SCTV 3
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR Link 2
+#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 2
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR Link 3
+#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 3
 http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV
 https://inews-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV 2
+https://cubmu.superzap.xyz:8279/net/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="TV NASIONAL",MNCTV
 https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="TV NASIONAL",MNCTV 2
+https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8
 #EXTINF:0 tvg-id="Rajawali TV" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="TV NASIONAL",Rajawali TV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=3394
+#EXTINF:0 tvg-id="Rajawali TV" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="TV NASIONAL",RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV 2
+https://cubmu.superzap.xyz:8279/net/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TVRI NASIONAL
+https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TVRI WORLD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",NUSANTARA TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="TV NASIONAL",UseePrime
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
+
 //BERITA
-#EXTINF:-1 group-title="BERITA",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="BERITA",TV One
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="BERITA",TV One 2
+http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:-1 group-title="BERITA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="BERITA",iNews USee
-https://cdn09jtedge.useetv.com/joss/134/inews/chunklist_w1219060382_b684100_sleng.m3u8?enc=Zd8eWwPwwn4xDQqV9tBJaQ&uid=NDI2N2I0MjY0MzY2YzNhZGE4MDgwYjM3YzY2MmVkMGU=&exp=1642264221
 #EXTINF:-1 group-title="BERITA",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="BERITA",METROTV
@@ -105,6 +118,12 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 //MOVIES
 #EXTINF:-1 group-title="MOVIES",TVN Movies
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",TVN Movies 2
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",TVN
+#EXTINF:-1 group-title="MOVIES",TVN 2
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+http://rr1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Thrill
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="MOVIES",HITS
@@ -112,8 +131,6 @@ http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #EXTINF:-1 group-title="MOVIES",CCM Classic
 http://rr2.dens.tv/s/s31/index.m3u8
 //TV Hiburan
-#EXTINF:-1 group-title="HIBURAN",TVN
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="HIBURAN",One
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="HIBURAN",KBS WORLD
@@ -122,16 +139,27 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="HIBURAN",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HIBURAN",AXN
+http://rr1.dens.tv/h/h141/index.m3u8
 #EXTINF:-1 group-title="HIBURAN",GEM
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-
 #EXTINF:-1 group-title="HIBURAN",Animax
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="HIBURAN",Aniplus
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="HIBURAN",KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="HIBURAN",Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HIBURAN",Cinema World
+http://rr1.dens.tv/h/h04/index.m3u8
+// ANAK
+#EXTINF:-1 group-title="TV ANAK",Dunia Anak
+https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
+#EXTINF:-1 group-title="TV ANAK",SpaceToons
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV ANAK",ToonMax
+http://rr2.dens.tv/s/s50/index.m3u8
 //Knowledge
 #EXTINF:-1 group-title="Pengetahuan",CGTN Documentary
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
@@ -145,35 +173,40 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Pengetahuan",BIZNET Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="Pengetahuan",DW(English)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+
 
 //TV SPORT LOKAL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="SPORTS LOKAL",CHAMPION TV 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="SPORTS LOKAL",CHAMPION TV 1 Link 2
 http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/284?cb=20210621091959" group-title="SPORTS LOKAL",CHAMPION TV 2 Link 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/284?cb=20210621091959" group-title="SPORTS LOKAL",CHAMPION TV 2 Link 2
 http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS LOKAL", Champions TV 3 Link 1
-https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS LOKAL", Champions TV 3 Link 1
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+
+
 #EXTINF:-1 group-title="SPORTS LOKAL",MNC SPORTS
 #EXTINF:-1 group-title="SPORTS LOKAL",USEESPORT 1
+
 #EXTINF:-1 group-title="SPORTS LOKAL",USEESPORT 2
+
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 //Champion
-#EXTINF:-1 group-title="CHAMPION League",MATCH2
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="CHAMPION",CHAMPION League
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-#EXTINF:-1 group-title="CHAMPION",CHAMPION League
-https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 //BEIN
-
+#EXTINF:-1 group-title="BEIN",BEIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+#EXTINF:-1 group-title="BEIN",BEIN SPORTS XTRA n
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 //SPORT
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia
@@ -188,11 +221,35 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",MOTORVISION
 http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 group-title="SPORT",Fight Sport
+http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 group-title="SPORT",MATCH2
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="SPORT",CHAMPION League
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+#EXTINF:-1 group-title="SPORT",CHAMPION League
+https://bal.varcdn1.ru/lb/m1/index.m3u8
+#EXTINF:-1 group-title="SPORT", Look Sport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="SPORT", Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="SPORT", Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="SPORT", Look Sport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sport",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 2" tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png" group-title="Sport",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 3" tvg-logo="http://www.maxtvs.net/admin/img/channel/fbd5e104dfb5e868621a.png" group-title="Sport",ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="SPORT",TOP FIGHT
-
+#EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 1" tvg-logo="https://www.pdfreestyle.com/wp-content/uploads/2019/01/Dubai-Sports-Channel-Logo.png" group-title="Sport",DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 2" tvg-logo="https://4flims.com/upload/source/dubaisports1نسخ.png" group-title="Sport",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://4flims.com/upload/source/dubaisports1نسخ.png" group-title="Sport",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO",EGG
