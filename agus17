@@ -1,9 +1,9 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE", MAN CITY VS FULLHAM
+#EXTINF:-1 group-title="LIVE", MAN CITY VS FULHAM
 http://45.148.26.176/hls/M1.m3u8
-
-
+#EXTINF:-1 group-title="LIVE", ROMA VS GENOA
+http://45.148.26.176/hls/M2.m3u8
 //TV NASIONAL Update FEBRUARI 2022
 #EXTINF:-1 group-title="TV NASIONAL",UPDATE 3 FEB 2022
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
@@ -210,8 +210,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 group-title="BEIN",BEIN SPORTS XTRA n
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
+#EXTINF:-1 group-title="BEIN",BEIN SPORTS 3
+http://45.148.26.176/hls/M2.m3u8
 //SPORT
+#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
+http://45.148.26.176/hls/M1.m3u8
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master480x270_v3.m3u8
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia HD
