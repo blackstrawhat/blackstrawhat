@@ -72,6 +72,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="BERITA",TV One 2
 http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="BERITA",iNewsTV
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 group-title="BERITA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA",CNN INDONESIA
