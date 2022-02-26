@@ -86,6 +86,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://3.bp.blogspot.com/-v_1lei3E3Fg/W-7DUIvKeAI/AAAAAAAAFAA/dC0JphZUqCY_jqRIyo6N5J-eiUK_5HYEwCLcBGAs/s1600/MetroTV.png",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="BERITA",METROTV
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 group-title="BERITA",BERITA SATU
