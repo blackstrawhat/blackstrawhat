@@ -5,8 +5,12 @@
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI
 https://mnctv-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI 2
-https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI 3
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
@@ -31,7 +35,7 @@ https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 2
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+http://108.136.37.52/m3u8/vid_Indosiar.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 3
 http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV
@@ -96,7 +100,8 @@ http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 group-title="BERITA",BERITA SATU 2
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
+#EXTINF:-1 group-title="BERITA",NHK WORLD JAPAN TV (NEWS) (English)
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 //TV DAERAH
 #EXTINF:-1  tvg-id="ext" group-title="TV DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -169,8 +174,8 @@ http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Movies",TVN Movies 2
 http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Movies",TVN
-#EXTINF:-1 group-title="Movies",TVN 2
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="Movies",TVN 2
 http://rr1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1 group-title="Movies",Thrill
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
@@ -343,13 +348,13 @@ http://goldentv.tech:25461/rachman/rachman/22974
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORTS LOKAL",Usee Sports 2 Backup
 http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtLipU0_jcRWAAqgu_8hpEzMgBoYm5tcaPAxNl39t_uruqfKJLh9P8suuYc95-_RxLBTlI5gwpEvPHPAx8Mly1tyJ2JhuULWli4eaIo0s1ZnZmC4BS0-ysqVtb48YCGf_BJFg8IQhx86YZjdWUQ79w9kdee0Agvv0zBx7feJ0ektYiyq2674371aSY",CHAMPIONS TV 1
-http://tvn.x10.bz/vidio/master-6.m3u8
+
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEicv5vILZVkyZH2XLs_PJ5JYnpzNE2PzyiZjKMcoJAxz_eEb_FlxhAcKLvleAE2CC-u3tfHK4yCmOkStpK2xxjPaGXvlnsEhtbwYxUnIiuf1Jsbv9cMhqMEe8A8R47W4zJrtmjNFyfxKe8KiUR4siJn8CYjsjyPnf_Qvu8LEt36KU9aIzoI96z49t-r",CHAMPIONS TV 2
-http://tvn.x10.bz/vidio/master-7.m3u8
+
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2pQGdYepHRkkVqLCSgFGaoiTPfjtHdcSzMk0L2xHbcMVZtE9iYMhYHbg7x0nX3_M3EIaVRSoyt2JokU7rq463FGOG361VvrgfTrBqPL0-6nzveqkJSHTLKz1V9gwuhDx9WBpUWMw4hYkDigrsQ_W0y0-GVwOYLoG_6Z_r0Ak9_bZ-R43qONbeKQzN",CHAMPIONS TV 3
-http://tvn.x10.bz/vidio/master-8.m3u8
+
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://thumbor.prod.vid.id/7jiwW5eQ0DKQ1bMu5OTOXuGUj9I=/592x332/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7953/champions-tv-4-827d7e.jpg",CHAMPIONS TV 4
-http://tvn.x10.bz/vidio/master-17.m3u8
+
 //Champion
 
 //BEIN
@@ -396,16 +401,22 @@ http://rr.dens.tv/h/h09/01.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORT",Fight Sport
 http://rr1.dens.tv/h/h05/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="SPORT",Fight Sports 2
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports 2
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 group-title="SPORT",MATCH2
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="SPORT",CHAMPION League
 https://bal.varcdn1.ru/lb/m2/index.m3u8
 #EXTINF:-1 group-title="SPORT",CHAMPION League
 https://bal.varcdn1.ru/lb/m1/index.m3u8
+#EXTINF:-1 group-title="SPORT",Now Sports Prime 630 chiser
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 group-title="SPORT",Now Sports Prime 630
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 group-title="SPORT",Red Bull TV (Sports) (USA)
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="SPORT", Look Sport 1
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 group-title="SPORT", Look Sport 2
