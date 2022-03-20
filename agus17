@@ -1,23 +1,16 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update FEBRUARI 2022
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 9 March 2022
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 20 March 2022
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI
-
-
-<==#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-<==#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-<==#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL", RCTI
-<==https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-<==https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-<==https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+http://tvn.x10.bz/xchannel/master-34.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7 2
@@ -35,38 +28,37 @@ http://45.126.83.51/session/945144f6-7616-11ec-8c26-a32592f5f0d6/qwr9ew/s/s07/01
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV 2
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+http://tvn.x10.bz/xchannel/master-24.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV 3
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 2
 http://108.136.37.52/m3u8/vid_Indosiar.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 3
-http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV
-https://inews-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV 2
-https://cubmu.superzap.xyz:8279/net/playlist.m3u8
+http://rr2.dens.tv/s/s04/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="GTV" tvg-name="GTV" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="TV NASIONAL",GTV
+https://inews-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="TV NASIONAL",MNCTV
 https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="TV NASIONAL",MNCTV 2
-https://cubmu.superzap.xyz:8279/mnctv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCTV" tvg-name="MNCTV" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="TV NASIONAL",MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:0 tvg-id="Rajawali TV" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="TV NASIONAL",RTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",Rajawali TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
+
+
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV 2
@@ -346,24 +338,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png" group-title="SPORTS LOKAL", UseeSports 1
-http://goldentv.tech:25461/rachman/rachman/22973
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORTS LOKAL",Usee Sports 1 Backup
-http://15.235.142.228:8080/live/hometvfree/selaludihati/70.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/tvposter/useeSport.png" group-title="SPORTS LOKAL", UseeSports 2
-http://goldentv.tech:25461/rachman/rachman/22974
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORTS LOKAL",Usee Sports 2 Backup
-http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtLipU0_jcRWAAqgu_8hpEzMgBoYm5tcaPAxNl39t_uruqfKJLh9P8suuYc95-_RxLBTlI5gwpEvPHPAx8Mly1tyJ2JhuULWli4eaIo0s1ZnZmC4BS0-ysqVtb48YCGf_BJFg8IQhx86YZjdWUQ79w9kdee0Agvv0zBx7feJ0ektYiyq2674371aSY",CHAMPIONS TV 1
-
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEicv5vILZVkyZH2XLs_PJ5JYnpzNE2PzyiZjKMcoJAxz_eEb_FlxhAcKLvleAE2CC-u3tfHK4yCmOkStpK2xxjPaGXvlnsEhtbwYxUnIiuf1Jsbv9cMhqMEe8A8R47W4zJrtmjNFyfxKe8KiUR4siJn8CYjsjyPnf_Qvu8LEt36KU9aIzoI96z49t-r",CHAMPIONS TV 2
-
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2pQGdYepHRkkVqLCSgFGaoiTPfjtHdcSzMk0L2xHbcMVZtE9iYMhYHbg7x0nX3_M3EIaVRSoyt2JokU7rq463FGOG361VvrgfTrBqPL0-6nzveqkJSHTLKz1V9gwuhDx9WBpUWMw4hYkDigrsQ_W0y0-GVwOYLoG_6Z_r0Ak9_bZ-R43qONbeKQzN",CHAMPIONS TV 3
-
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://thumbor.prod.vid.id/7jiwW5eQ0DKQ1bMu5OTOXuGUj9I=/592x332/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7953/champions-tv-4-827d7e.jpg",CHAMPIONS TV 4
-
-//Champion
-
 //BEIN
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="BEIN",BEIN SPORTS 1 ID
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -379,7 +353,28 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 group-title="BEIN",BEIN SPORTS XTRA n
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="BEIN",BEIN SPORTS 1 AR
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpWGXpTZgLtGsmHhKZFWzurOdVtMBVCMOxw&usqp=CAU" group-title="BEIN",BEIN SPORTS 2 AR
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpWGXpTZgLtGsmHhKZFWzurOdVtMBVCMOxw&usqp=CAU" group-title="BEIN",BEIN SPORTS 3 AR
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="BEIN",BEIN SPORTS 1 TH
+http://103.22.183.7:8080/bein1/mpegts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpWGXpTZgLtGsmHhKZFWzurOdVtMBVCMOxw&usqp=CAU" group-title="BEIN",BEIN SPORTS 2 TH
+http://103.22.183.7:8080/bein2/mpegts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="BEIN",BEIN SPORTS 1 CA
+http://45.153.32.69:8888/4/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpWGXpTZgLtGsmHhKZFWzurOdVtMBVCMOxw&usqp=CAU" group-title="BEIN",BEIN SPORTS 2 CA
+http://45.153.32.69:8888/10/index.m3u8
+
 //SPORT
+#EXTINF:-1 group-title="SPORT",RMC SPORT 1
+http://45.153.32.69:8888/37/index.m3u8
+#EXTINF:-1 group-title="SPORT",RMC SPORT 2
+http://45.153.32.69:8888/30/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="STAR Chinese Movies HD" tvg-name="STAR Chinese Movies HD" tvg-url="http://www.transvision.co.id" tvg-logo="http://dusktill.masuk.web.id/img/scm.png" group-title="SPORT",SPO TV
@@ -449,10 +444,16 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO",EGG
 http://45.126.83.51/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="ASTRO",Astro Super Sport 1
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1 group-title="ASTRO",Astro Super Sport 2
+http://203.154.243.89:21202/nakhon
+#EXTINF:-1 group-title="ASTRO",Astro Super Sport 3
+http://203.154.243.89:21203/nakhon
+#EXTINF:-1 group-title="ASTRO",Astro Super Sport 4
+http://203.154.243.89:21204/nakhon
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU" group-title="ASTRO",Astro SUPER SPORT 1
-
 http://shareext@urtv.cc:80/live/297340/297340/6708.ts?shareext.ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -503,7 +504,6 @@ http://shareext@urtv.cc:80/live/297340/297340/9028.ts?shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-
 
 
 
