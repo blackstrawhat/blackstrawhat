@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update FEBRUARI 2022
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 20 March 2022
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 3 April 2022
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI
 
@@ -15,28 +15,32 @@ http://tvn.x10.bz/xchannel/master-34.m3u8
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7 2
 http://rr.dens.tv/h/h11/index.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 3
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="Trans TV HD" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" group-title="TV NASIONAL",TRANSTV 2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans TV HD" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" group-title="TV NASIONAL",TRANSTV 3
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV 2
-http://45.126.83.51/session/945144f6-7616-11ec-8c26-a32592f5f0d6/qwr9ew/s/s07/01.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV 2
-http://tvn.x10.bz/xchannel/master-24.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV 3
 
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
+https://begaltvku.site/ventidos/master.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 2
-http://108.136.37.52/m3u8/vid_Indosiar.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 3
 http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 3
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -62,7 +66,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV 2
-https://cubmu.superzap.xyz:8279/net/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TVRI NASIONAL
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TVRI WORLD
@@ -77,6 +81,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="BERITA",TV One 2
 http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png" group-title="BERITA",TV ONE 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,6 +310,10 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 //TV SPORT LOKAL
+#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT [LIGA1]
+http://51.79.223.166:8080/hometv/premium/32
+#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT 2
+http://51.79.223.166:8080/hometv/premium/33
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -338,6 +351,18 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS LOKAL" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV
+http://15.235.142.241:8080/hometv/premium/8063
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
+http://15.235.142.241:8080/hometv/premium/8064
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
+http://15.235.142.241:8080/hometv/premium/8065
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV BACKUP
+http://begaltvku.site/vidprem/master-6.m3u8
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2 BACKUP
+http://begaltvku.site/vidprem/master-7.m3u8
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3 BACKUP
+http://begaltvku.site/vidprem/master-8.m3u8
 //BEIN
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="BEIN",BEIN SPORTS 1 ID
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -442,73 +467,29 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 //ASTRO SPORTS
-#EXTINF:-1 group-title="ASTRO",EGG
+#EXTINF:-1 group-title="ASTRO SPORT",EGG
 http://45.126.83.51/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="ASTRO",Astro Super Sport 1
+#EXTINF:-1 group-title="ASTRO SPORT",Astro Super Sport 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:-1 group-title="ASTRO",Astro Super Sport 2
+#EXTINF:-1 group-title="ASTRO SPORT",Astro Super Sport 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 group-title="ASTRO",Astro Super Sport 3
+#EXTINF:-1 group-title="ASTRO SPORT",Astro Super Sport 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 group-title="ASTRO",Astro Super Sport 4
+#EXTINF:-1 group-title="ASTRO SPORT",Astro Super Sport 4
 http://203.154.243.89:21204/nakhon
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU" group-title="ASTRO",Astro SUPER SPORT 1
 http://shareext@urtv.cc:80/live/297340/297340/6708.ts?shareext.ts
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU" group-title="ASTRO",Astro SUPER SPORT 2
-
-http://shareext@urtv.cc:80/live/297340/297340/6710.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU" group-title="ASTRO",Astro SUPER SPORT 3
-
-http://shareext@urtv.cc:80/live/297340/297340/6711.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU" group-title="ASTRO",Astro SUPER SPORT 4
-
-http://shareext@urtv.cc:80/live/297340/297340/6712.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kWoEUAXiaPleOZ1ievX_b7J_3uo-N7dWew&usqp=CAU" group-title="ASTRO",Astro SUPER SPORT 5
-
-http://shareext@urtv.cc:80/live/297340/297340/9029.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufYzacJd_IBuN2OExh_9-CUJ4uUcH1pv7Kg&usqp=CAU" group-title="ASTRO",Astro Arena 1
-
-http://shareext@urtv.cc:80/live/297340/297340/6707.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Astro_Arena_2.png/240px-Astro_Arena_2.png" group-title="ASTRO",Astro Arena 2
-
-http://shareext@urtv.cc:80/live/297340/297340/9028.ts?shareext.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT
+http://15.235.142.241:8080/hometv/premium/8066
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
+http://15.235.142.241:8080/hometv/premium/8067
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
+http://15.235.142.241:8080/hometv/premium/8068
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
+http://15.235.142.241:8080/hometv/premium/8069
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 5
+http://15.235.142.241:8080/hometv/premium/8070
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO ARENA
+http://15.235.142.241:8080/hometv/premium/8071
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO ARENA 2
+http://15.235.142.241:8080/hometv/premium/8072
