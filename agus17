@@ -332,11 +332,11 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT 2
 
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1650553209~acl=/hls-p/ingest_6685_*/*~hmac=8b89d09c5c0b68fb6d6171f3ad749e549c1cdee1e7c3375ba13a2ee166ef8258/hls-p/ingest_6685_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1650996952~acl=/hls-p/ingest_6685_*/*~hmac=6b779f21f19be034f0de907019209c9309324205d6e0a42026d3a069a57bc56b/hls-p/ingest_6685_480p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1650553222~acl=/hls-p/ingest_6686_*/*~hmac=19f4be340f08470a4ad3abd0e4653cda91d5987c83bcbe5651b8bb21d28e73ba/hls-p/ingest_6686_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1650996967~acl=/hls-p/ingest_6686_*/*~hmac=40c9ab52f874d4bc0a0600d0153d7a17fd6b53e47623e017d3ce900c711cbc8b/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1650553234~acl=/hls-p/ingest_6786_*/*~hmac=01b27e06692b87a25abf580bd2aab49f884fc87360aff8ab7f3908735d90fd03/hls-p/ingest_6786_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1650996982~acl=/hls-p/ingest_6786_*/*~hmac=00e80e0aae17b9bd391d14890339465a0130c7d679cc032d2fc71e639ad96932/hls-p/ingest_6786_480p/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
