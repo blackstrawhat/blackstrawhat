@@ -1,24 +1,22 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",ARsenal vs MU
-https://kpUAEikickyourasshole@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?LANUNMATASEPETJILAKE.m3u8
-
-//TV NASIONAL Update FEBRUARI 2022
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 21 April 2022
+//TV NASIONAL Update APRIL 2022
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 27 April 2022
 https://kpuae@bd911d026808.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.500746704626.channel.YzkXDr8dGBsY.m3u8?Steal?go2hell.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="TV NASIONAL",RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://rr.dens.tv/h/h11/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
@@ -34,16 +32,15 @@ http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1650484549~acl=/hls-p/ingest_204_*/*~hmac=b02c157a1f69adf9e5556f40598b68b546c9ac04d0168c3f6eb0b4bbeef0832d/hls-p/ingest_204_360p/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV 3
-
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",SCTV
+http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1650484344~acl=/hls-p/ingest_205_*/*~hmac=b4b4553a2a2bc94943760b170da5c141ce65f0168ec240ac4e576baf2b7cdab6/hls-p/ingest_205_360p/index.m3u8
-
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
@@ -64,6 +61,8 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
 http://45.126.83.51/dr9445/h/h10/index.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="TV NASIONAL",NET TV
@@ -94,7 +93,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS
-https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="BERITA",iNewsTV
@@ -176,60 +175,77 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="HBO Family" tvg-name="HBO Family" tvg-url="http://www.mncvision.id.E" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="Movies",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 group-title="Movies",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movies",Celestial Movies
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="Movies",Warner TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
+http://rr1.dens.tv/h/h141/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png",CinemaWorld
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png",CinemaWorld
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Movies",Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="Movies",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://i.imgur.com/fKNAva5.png",Rock Entertainment
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+//MOVIES ASIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movies Asia",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CCM" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="Movies",Celestial Classic Movies
+#EXTINF:0 tvg-id="CCM" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="Movies Asia",Celestial Classic Movies
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Movies",Celestial Classic Movies
+#EXTINF:0 tvg-id="CCM" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="Movies Asia",Celestial Classic Movies
 http://rr2.dens.tv/s/s31/index.m3u8
-#EXTINF:-1 group-title="Movies",Celestial Classic Movies
-http://group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
-#EXTINF:-1 group-title="Movies",TVN Movies
+#EXTINF:-1 group-title="Movies Asia",Celestial Classic Movies
+#EXTINF:-1 group-title="Movies Asia",TVN Movies
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Movies",TVN Movies 2
+#EXTINF:-1  tvg-logo="" group-title="Movies Asia",TVN Movies 2
 http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Movies",TVN
+#EXTINF:-1  tvg-logo="" group-title="Movies Asia",TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="Movies",TVN 2
+#EXTINF:-1 group-title="Movies Asia",TVN 2
 http://rr1.dens.tv/h/h20/index.m3u8
-#EXTINF:-1 group-title="Movies",Thrill
+#EXTINF:-1 group-title="Movies Asia",Thrill
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="Movies",HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-//TV Hiburan
-#EXTINF:-1 group-title="HIBURAN",One
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="HIBURAN",KBS WORLD
+#EXTINF:-1 group-title="Movies Asia",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="HIBURAN",K+
+#EXTINF:-1 group-title="Movies Asia",K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="HIBURAN",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HIBURAN",AXN
-http://rr1.dens.tv/h/h141/index.m3u8
-#EXTINF:-1 group-title="HIBURAN",GEM
+#EXTINF:-1 group-title="Movies Asia",SONY One
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="Movies Asia",SONY GEM
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="HIBURAN",Animax
+#EXTINF:-1 group-title="Movies Asia",Animax
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="HIBURAN",Aniplus
+#EXTINF:-1 group-title="Movies Asia",Aniplus
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="HIBURAN",KIX
+#EXTINF:-1 group-title="Movies Asia",KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HIBURAN",Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HIBURAN",Cinema World
-http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfwJ92zT/bflix.png" group-title="Movies Asia",Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 // ANAK
 #EXTINF:-1 group-title="TV ANAK",Dunia Anak
-https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ANAK",SpaceToons
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="TV ANAK",ToonMax
 http://rr2.dens.tv/s/s50/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -249,6 +265,8 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="TV ANAK",BabyTV
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pbs_kids_us.png" group-title="TV ANAK",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 //Knowledge
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -337,8 +355,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1650996952~acl=/hls-p/ingest_6685_
 https://etslive-2-vidio-com.akamaized.net/exp=1650996967~acl=/hls-p/ingest_6686_*/*~hmac=40c9ab52f874d4bc0a0600d0153d7a17fd6b53e47623e017d3ce900c711cbc8b/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
 https://etslive-2-vidio-com.akamaized.net/exp=1650996982~acl=/hls-p/ingest_6786_*/*~hmac=00e80e0aae17b9bd391d14890339465a0130c7d679cc032d2fc71e639ad96932/hls-p/ingest_6786_480p/index.m3u8
-
-
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -414,6 +430,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 http://45.148.26.176/hls/M1.m3u8
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master480x270_v3.m3u8
+#EXTINF:-1 group-title="ASTRO SPORT",EGG NETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 group-title="SPORT",UFC Stadium
@@ -459,7 +477,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 group-title="AR SPORT",Sarjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 //ASTRO SPORTS
-#EXTINF:-1 group-title="ASTRO SPORT",EGG
+#EXTINF:-1 group-title="ASTRO SPORT",EGG NETWORK
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="ASTRO SPORT",Astro Super Sport 1
 http://203.154.243.89:21201/nakhon
