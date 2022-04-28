@@ -1,7 +1,8 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",Liverpool vs Villareal
-http://d3fux4819m73bb.cloudfront.net/stream/NDA1Ng==/1080p.m3u8
+#EXTINF:-1 group-title="LIVE",MU vs Chelsea
+chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Wv42xvR8cLn4MQc0q36TFlROCxqLbdLjdMLB30yRh3dGtqu-0jftlCXBA4qmhJNGYmfEJEyHzoDkNlAZXOr33A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+
 //TV NASIONAL Update APRIL 2022
 #EXTINF:-1 group-title="TV NASIONAL",UPDATE 27 April 2022
 https://kpuae@bd911d026808.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.500746704626.channel.YzkXDr8dGBsY.m3u8?Steal?go2hell.m3u8
