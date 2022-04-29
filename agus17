@@ -1,8 +1,5 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",MU vs Chelsea
-chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Wv42xvR8cLn4MQc0q36TFlROCxqLbdLjdMLB30yRh3dGtqu-0jftlCXBA4qmhJNGYmfEJEyHzoDkNlAZXOr33A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
-
 //TV NASIONAL Update APRIL 2022
 #EXTINF:-1 group-title="TV NASIONAL",UPDATE 27 April 2022
 https://kpuae@bd911d026808.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.500746704626.channel.YzkXDr8dGBsY.m3u8?Steal?go2hell.m3u8
@@ -31,17 +28,17 @@ http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1651218949~acl=/hls-p/ingest_204_*/*~hmac=5eef4b41c9426f97c97887796f6391256ab0bbced0ffd766a9845f0936e0a35a/hls-p/ingest_204_480p/index.m3u8
+//http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
+//http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
-http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1651218744~acl=/hls-p/ingest_205_*/*~hmac=aad364dc1a12b49e5a9d3109be24187072ecb94a69ad5955d806ee9f10ea1bce/hls-p/ingest_205_480p/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
+//http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+//http://rr2.dens.tv/s/s04/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
@@ -335,9 +332,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
 //TV SPORT LOKAL
-#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT [LIGA1]
-
+#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
 #EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT 2
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
 http://tvn.x10.bz/TvN_ID/master-6.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
@@ -347,6 +345,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1651094975~acl=/hls-p/ingest_6686_
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
 http://tvn.x10.bz/TvN_ID/master-7.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
+https://etslive-2-vidio-com.akamaized.net/exp=1651094984~acl=/hls-p/ingest_6786_*/*~hmac=cc53d535eceb1a9ff8cfade2cff169d146a76867ad474eaf450457dc9532b858/hls-p/ingest_6786_480p/index.m3u8
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
+http://tvn.x10.bz/TvN_ID/master-8.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -420,6 +421,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
 http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 group-title="SPORT",RTM Sport
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master480x270_v3.m3u8
 #EXTINF:-1 group-title="ASTRO SPORT",EGG NETWORK
