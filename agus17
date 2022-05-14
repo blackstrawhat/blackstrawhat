@@ -1,9 +1,9 @@
 #EXTM3U
 //LIVE
 #EXTINF:-1 group-title="LIVE", FA CUP LIV vs CHE
-https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY-avc1_1499968=10002.m3u8
+https://4858d473831a.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.465663001648.channel.0fyVwIptp2zZ.m3u8
 #EXTINF:-1 group-title="LIVE", FA CUP LIV vs CHE
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/zmx2GR-CLfDEJEsW6Uv8TQ==,1652558988/channels/cme-ro-prox/playlist.m3u8
 //TV NASIONAL Update APRIL 2022
 #EXTINF:-1 group-title="TV NASIONAL",UPDATE May
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
