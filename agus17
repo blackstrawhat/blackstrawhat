@@ -1,7 +1,15 @@
 #EXTM3U
 //LIVE
+//LIVE
+#EXTINF:-1 group-title="LIVE", GIRLY CELL PUSAT HANDPHONE BERKUALITAS di ex Gedung Giant Pakelan
+https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #EXTINF:-1 group-title="LIVE",LIVERPOOL vs Real Madrid
 http://djib9t6yr2cp7.cloudfront.net/stream/NDQ2NA==/1080p.m3u8
+#EXTINF:-1 group-title="LIVE",LIVERPOOL vs Real Madrid
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/7Z-X7dD33mTtzfg0FR2GcCNvFN9p3_4gV9rexUQa5ErfdQVJpnKRk5iL_CZlJCvYPVjmMSxqUzy5trHAwcCgOA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8
+#EXTINF:-1 group-title="LIVE",LIVERPOOL vs Real Madrid
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-mdpTdwWlaW6_dQnnVm6qYS0uCiljgurZRtg_fbGGu7cBOKUMavtXirUI35rAKOGj0nR_Tx4O8J8J8sh7fF7Pw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8
+
 //TV NASIONAL Update APRIL 2022
 #EXTINF:-1 group-title="TV NASIONAL",UPDATE 15 Mei
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
