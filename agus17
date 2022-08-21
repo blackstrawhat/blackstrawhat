@@ -1,9 +1,11 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE", BRE VS MU
-https://live-global-cdn-v02.afreecatv.com/live-stm-07/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.jjItpQjUEfIpEdPxV8HtVpWWuliKH2v5v_ZI_LgPzEs-ql65-EKsVAtUsW-kMZyxd0fCz9la8XkSH1h07lP3RDJ7tm0dRD2m4yf7KKIQgSj0nylWH1Lq_Qdf6TiyLuv1
-//TV NASIONAL Update 30 JUNI
-#EXTINF:-1 group-title="TV NASIONAL", JULI 2022
+#EXTINF:-1 group-title="LIVE",LEEDS vs CHelsea
+https://skjattagrp.ml/RxugQu.m3u8
+#EXTINF:-1 group-title="LIVE",WestHam vs Brighton
+https://skjattagrp.ml/MiGYhP.m3u8
+//TV NASIONAL Update AGUSTUS
+#EXTINF:-1 group-title="TV NASIONAL", AGUSTUS
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
