@@ -1,9 +1,7 @@
 #EXTM3U
 //LIVE
-#EXTINF:-1 group-title="LIVE",LEEDS vs CHelsea
-https://skjattagrp.ml/RxugQu.m3u8
-#EXTINF:-1 group-title="LIVE",WestHam vs Brighton
-https://skjattagrp.ml/MiGYhP.m3u8
+#EXTINF:-1 group-title="LIVE",NEW vs MCI
+https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.nwGPixayNFlL.m3u8
 //TV NASIONAL Update AGUSTUS
 #EXTINF:-1 group-title="TV NASIONAL", AGUSTUS
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
