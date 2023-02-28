@@ -446,17 +446,18 @@ https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015958.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="Movies Asia",K+
 http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 group-title="Movies Asia",SONY One
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="One.Id" tvg-logo="https://cdn.ksa.my.id/sonyone.png" group-title="Movies Asia",Sony One
+#EXTINF:0 tvg-id="One.Id" tvg-logo="https://cdn.ksa.my.id/sonyone.png" group-title="Movies Asia",One
 https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 group-title="Movies Asia",One
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+
 #EXTINF:-1 group-title="Movies Asia",SONY GEM
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="One.Id" tvg-logo="" group-title="Movies Asia",Sony Gem
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Movies Asia",Gem
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
 #EXTINF:-1 group-title="Movies Asia",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
