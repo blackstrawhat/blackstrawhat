@@ -148,14 +148,8 @@ https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="BERITA",Kompas TV
 https://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="BERITA",Kompas TV
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8?token=bukuantv
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13" group-title="Berita",Kompas
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
@@ -178,11 +172,9 @@ http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://cdn.ksa.my.id/seatoday.png" group-title="BERITA",SEA TODAY
-https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://cdn.ksa.my.id/seatoday.png" group-title="BERITA",SEA TODAY
 https://anevia114.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://cdn.ksa.my.id/seatoday.png" group-title="BERITA",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="ChannelNewsAsia.Id" tvg-logo="https://cdn.ksa.my.id/cna.png" group-title="BERITA",Channel News Asia
@@ -452,28 +444,13 @@ http://rr.dens.tv/h/h08/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="One.Id" tvg-logo="https://cdn.ksa.my.id/sonyone.png" group-title="Movies Asia",One
 https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 group-title="Movies Asia",One
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="Movies Asia",One (max)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5a29bc89-80f2-4005-8fda-e2b8662af2df)/manifest.mpd
 
 #EXTINF:-1 group-title="Movies Asia",GEM
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Vo39Y7qsE4qmseMPo-KRiA0.1677561173411&dpr=1
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Movies Asia",Gem
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Vo39Y7qsE4qmseMPo-KRiA0.1677561173411
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Movies Asia",Gem
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Movies Asia",Gem
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="Movies Asia",SEA TODAY
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/index.m3u8?token=bukuantv
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8?token=bukuantv
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8?token=bukuantv
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Movies Asia",Gem (max)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9e88c4b0-8f52-4d81-9954-943e8cce1b71)/manifest.mpd
 
 #EXTINF:-1 group-title="Movies Asia",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
